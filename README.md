@@ -11,17 +11,17 @@ Bem-vindo ao meu mundo no GitHub, onde códigos e café se misturam em uma danç
 Imagina-se em um lugar onde os commits são como capítulos de uma emocionante narrativa, os pull requests são duelos épicos e os merges são desfechos imprevisíveis. Nesse reino digital, os bugs são como sombras ocultas, prontas para desafiar os bravos heróis do código, enquanto os code reviews assumem o papel de conselhos de sábios, guiando os herois em sua jornada de crescimento e aprimoramento. Cada branch é uma trilha sinuosa, repleta de oportunidades únicas e obstáculos imprevistos, em um mundo em constante expansão, onde a base de código é o epicentro da criatividade e da inovação.
 <br/><br/>
 
-<img alt="Pearl presentation" align="left" src="https://media.giphy.com/media/3V6RdE9DA6jIpczd45/giphy.gif" width="220" height="100" />
-<img alt="My rules markdown motherfucking" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="10" height="100" />
+<img alt="Pearl presentation" align="left" src="https://media.giphy.com/media/3V6RdE9DA6jIpczd45/giphy.gif" width="220" height="160" />
+<img alt="My rules markdown motherfucking" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="10" height="150" />
 
-Pode ser que você encontre um código brilhante! Que brilhe mais do que uma estrela cadente ou, quem sabe, alguns scripts que parecem ter sido escritos por um gato teclando aleatoriamente. Afinal, é aqui que o caos encontra a criatividade e a magia acontece!
+Pode ser que você descubra um código brilhante! uma luz mais intensa que uma estrela cadente ou, talvez, alguns scripts que parecem ter sido escritos por um gato teclando aleatoriamente. No entanto, essa busca por brilho e magia se torna um mergulho no universo regido pelos caprichos dos padrões superficiais. Neste cenário, onde beleza e promiscuidade servem como árbitros de quem merece uma oportunidade, as vozes autênticas são abafadas, condenadas a um silêncio forçado. Enquanto os holofotes iluminam apenas as máscaras da conformidade, a verdadeira essência se perde na penumbra, obscurecida pela luz artificial do reconhecimento superficial.
 <br/><br/>
 
-<img alt="The Lobster forest dance" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xiOGNjbGhoNWpzN3Iya3Q5dW8wenU1eW53MmZzbjIxZ3pkN2JjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FecuVSaGuRW79aE/giphy-downsized.gif" width="220" height="100" />
+<img alt="The Lobster forest dance" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xiOGNjbGhoNWpzN3Iya3Q5dW8wenU1eW53MmZzbjIxZ3pkN2JjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FecuVSaGuRW79aE/giphy-downsized.gif" width="220" height="150" />
 
-Então, prepare-se para mergulhar em linhas de código que podem te fazer rir, chorar e até mesmo questionar sua escolha de carreira. Mas, acima de tudo, espero que encontre inspiração e descontração ao explorar meus projetos.
+Adentre-se em uma floresta de algoritmos, onde a solidão se entrelaça com o eco vazio do universo digital. Cada linha é uma tentativa única de se encaixar em um padrão que nunca parece se completar. Você pode encontrar momentos de riso forçado, lágrimas contidas, raiva silenciosa e até mesmo questionar se o labirinto sombrio de zeros e uns vale o esforço. No entanto, acima de tudo, desejo que descubra um breve consolo na busca por conexão e propósito, enquanto vagueia pelos corredores solitários dos meus projetos.
 <br/><br/>
 
-Divirta-se e que os commits estejam sempre ao seu favor! <img alt="Phantom of the Opera" src="https://media.giphy.com/media/kGuJyaP1mbimWdumXB/giphy.gif" width="20" />
+Desvende os bastidores e que os commits estejam sempre ao seu favor, refletindo suas paixões e desafios mais profundos. <img alt="Phantom of the Opera" src="https://media.giphy.com/media/kGuJyaP1mbimWdumXB/giphy.gif" width="20" />
 
 ---
